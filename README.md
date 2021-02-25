@@ -1,6 +1,7 @@
 # calculater
 
 A new Flutter project.
+Calculator capable of performing multi-value calculation with operations plus, divide, multiply, minus.
 
 ## Getting Started
 
