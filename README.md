@@ -1,4 +1,4 @@
-# calculater
+# calculator
 by Bhavik Limbasiya.
 
 A new Flutter project.
